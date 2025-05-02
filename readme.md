@@ -5,6 +5,14 @@ at least using Jinja...
 
 A simple static site generator using Jinja2 templates to convert markdown or HTML entries into a static website.
 
+## How to Edit
+
+https://github.dev/bgcsvehr07/bgcsvehr07
+
+## How to View
+
+https://bgcsvehr07.github.io/bgcsvehr07/
+
 ## Run It
 
 ### Quick Start
